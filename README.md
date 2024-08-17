@@ -23,6 +23,9 @@ Final year Computer Science and Engineering student at Rajalakshmi Engineering C
 *Description*: Built a system to detect fake news using machine learning algorithms such as logistic regression, decision tree, and random forest for classification.  
 *Technologies Used*: Python
 
+**4. [Product Price Analysis Bot](https://github.com/MonikaSomasundaram/Product_Price_Analysis_Bot)**  
+*Description*: Automated Amazon price analysis to identify current, highest, and lowest prices for specified products. Sends a detailed report via email.  
+*Technologies Used*: UiPath
 
 🎓 **Certifications:**  
 - RPA Design and Development v4.0
