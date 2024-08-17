@@ -15,11 +15,11 @@ Final year Computer Science and Engineering student at Rajalakshmi Engineering C
 *Description*: Developed a web application for managing an ice cream shop. Implemented CRUD operations and validation for both user and admin interfaces.  
 *Technologies Used*: PHP, Bootstrap, SQL
 
-**2. [Image Processing of Medicinal Plants](https://github.com/MonikaSomasundaram/Fake_News_Detection)**  
+**2. [Image Processing of Medicinal Plants](https://github.com/MonikaSomasundaram/210701166-GE19612-PRIEE )**  
 *Description*: Created a CNN for image processing of medicinal plants using TensorFlow. Developed a web application with Flask and a user interface with Bootstrap.  
 *Technologies Used*: TensorFlow, Flask, Bootstrap
 
-**3. [Fake News Detection System](#)**  
+**3. [Fake News Detection System](https://github.com/MonikaSomasundaram/Fake_News_Detection)** 
 *Description*: Built a system to detect fake news using machine learning algorithms such as logistic regression, decision tree, and random forest for classification.  
 *Technologies Used*: Python
 
