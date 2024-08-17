@@ -11,7 +11,7 @@ Final year Computer Science and Engineering student at Rajalakshmi Engineering C
   
 ## 🛠️ Projects
 
-**1. [Ice Cream Shop Web Application](#)**  
+**1. [Ice Cream Shop Web Application](https://github.com/MonikaSomasundaram/Icecream_Shop_WebApplication)**  
 *Description*: Developed a web application for managing an ice cream shop. Implemented CRUD operations and validation for both user and admin interfaces.  
 *Technologies Used*: PHP, Bootstrap, SQL
 
