@@ -15,7 +15,7 @@ Final year Computer Science and Engineering student at Rajalakshmi Engineering C
 *Description*: Developed a web application for managing an ice cream shop. Implemented CRUD operations and validation for both user and admin interfaces.  
 *Technologies Used*: PHP, Bootstrap, SQL
 
-**2. [Image Processing of Medicinal Plants](#)**  
+**2. [Image Processing of Medicinal Plants](https://github.com/MonikaSomasundaram/Fake_News_Detection)**  
 *Description*: Created a CNN for image processing of medicinal plants using TensorFlow. Developed a web application with Flask and a user interface with Bootstrap.  
 *Technologies Used*: TensorFlow, Flask, Bootstrap
 
